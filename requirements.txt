@@ -1,0 +1,6 @@
+streamlit
+pyngrok
+
+# หลังจากสร้างไฟล์แล้ว เราจะแสดงเนื้อหาเพื่อยืนยัน
+# การรันคำสั่ง !cat จะเป็นการแสดงเนื้อหาของไฟล์ requirements.txt
+!cat requirements.txt
